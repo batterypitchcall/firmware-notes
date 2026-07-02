@@ -1,5 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.12.1-beta",
-  "notes": "- Firmware-update changelog prompt\n- Version banner on the serial console"
+  "version": "v1.13.0-beta",
+  "notes": "- Signed OTA (ECDSA P-256)\n- Safer over-the-air pipeline",
+  "size": 3107888,
+  "sig": "MEUCIQCoyTSZxra0pn2466i/beDldR2DMKJPeuRnrccm7kx8tgIgY8g5gqvNRxjHN9FzT+ba9Y1LL2Kpek77tsbl4iyHANs="
 }
