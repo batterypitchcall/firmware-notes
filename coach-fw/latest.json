@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.13.2-beta",
-  "notes": "- Shorter, clearer update messages",
+  "version": "v1.13.3-beta",
+  "notes": "- New splash screen",
   "size": 3107712,
-  "sig": "MEQCICvXPQKCPGaVQWVQLSX3hW5HjkorPCTTE+CKyeoId8xuAiBzePgtnjhjF31fmXSz4VOBFd5A+V4rtrX9HiKx/2qs1g=="
+  "sig": "MEUCIFNp+HaEOEHIe6R9pFwUKgw/DbELhz9/Nr+iZBWnmZQLAiEAkXdP3BNxY2xDWW+Y4YkmiU1VaKJ27NDv6fxxmXArDvo="
 }
