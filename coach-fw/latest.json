@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.13.1-beta",
-  "notes": "- Signed-update self-check\n- No functional changes to pitch calling",
-  "size": 3107888,
-  "sig": "MEUCIDXszayLBmUZpH1bJQUATFnKcwSWAWa70Jkw0bNpWjI/AiEAg9tjEUqjAVwYRYRbXtPQMlu2wIPqfuH+cvoQwKwp1y4="
+  "version": "v1.13.2-beta",
+  "notes": "- Shorter, clearer update messages",
+  "size": 3107712,
+  "sig": "MEQCICvXPQKCPGaVQWVQLSX3hW5HjkorPCTTE+CKyeoId8xuAiBzePgtnjhjF31fmXSz4VOBFd5A+V4rtrX9HiKx/2qs1g=="
 }
