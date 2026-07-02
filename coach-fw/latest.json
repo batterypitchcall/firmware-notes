@@ -1,0 +1,5 @@
+{
+  "software_type": "coach-fw",
+  "version": "v1.12.1-beta",
+  "notes": "- Firmware-update changelog prompt\n- Version banner on the serial console"
+}
