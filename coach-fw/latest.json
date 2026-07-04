@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.13.3-beta",
-  "notes": "- New splash screen",
-  "size": 3107712,
-  "sig": "MEUCIFNp+HaEOEHIe6R9pFwUKgw/DbELhz9/Nr+iZBWnmZQLAiEAkXdP3BNxY2xDWW+Y4YkmiU1VaKJ27NDv6fxxmXArDvo="
+  "version": "v1.14.0-beta",
+  "notes": "See the release notes.",
+  "size": 2351136,
+  "sig": "MEUCIBhRprI4R8ua7vLbxEFds81ZCyq0cU6c1+0bumRayShuAiEA6cchkKoDYjzoHZKNhv1UkQk0otul/0Nhgl6g7rgj3s0="
 }
