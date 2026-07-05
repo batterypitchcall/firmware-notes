@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
   "version": "v1.14.7-beta",
-  "notes": "See the release notes.",
+  "notes": "- Firmware update: no more long black screen",
   "size": 2353680,
   "sig": "MEQCICZGPnin3LbaZ20Ag7uvlxsAAM7haAvSQpDrWb5Ves5tAiAeWY3pO6bZeB5SpScGnqnkl+2YHiUn3m2CmUTjmXejQQ=="
 }
