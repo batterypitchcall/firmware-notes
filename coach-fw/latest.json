@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.14.8-beta",
-  "notes": "- Waking from standby returns to the pitch menu\n- No more phantom \"crash\" after a firmware check",
-  "size": 2353664,
-  "sig": "MEUCIFXFhq/IXnIwPD8rvcRrSbf2dEqnJYvHFIqmmC8UZjaqAiEAj5VUX+Y7FF+t88RFNXE46aEpE5m7DQepMm3Ta9g63VI="
+  "version": "v1.15.0-beta",
+  "notes": "- See each watch's battery level during a game",
+  "size": 2356784,
+  "sig": "MEUCIF9/irggKDnPzgyVSfwqBHsosaED0dly93FH2xsqAOh2AiEAvubUAe0d4FZo3ZKYmFO1e9x840bQ24jEimcitw+lStM="
 }
