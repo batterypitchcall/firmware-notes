@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.16.0-beta",
-  "notes": "- The coach now shows its own battery level",
-  "size": 2343744,
-  "sig": "MEUCIQCAqhJymGGfIkplCCRQe+t/hy2bh/onl8P5vkNM+ITHXwIgelnz6GZBM27JJ67EeGjdxborA912My6JX6uAvqzQnJA="
+  "version": "v1.16.1-beta",
+  "notes": "- More reliable firmware updates\n- Fixes a rare display freeze",
+  "size": 2343792,
+  "sig": "MEUCIGrXVByeZyjERoBYef/aCubw2uEnTQpWgCaS/oSj15bnAiEA0M+X2VptJ03ML8vFg6pMeDLc5ssw0gMG/6+DpDeS2YM="
 }
