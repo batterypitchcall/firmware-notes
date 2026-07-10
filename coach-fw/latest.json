@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.16.1-beta",
-  "notes": "- More reliable firmware updates\n- Fixes a rare display freeze",
-  "size": 2343792,
-  "sig": "MEUCIGrXVByeZyjERoBYef/aCubw2uEnTQpWgCaS/oSj15bnAiEA0M+X2VptJ03ML8vFg6pMeDLc5ssw0gMG/6+DpDeS2YM="
+  "version": "v1.17.0-beta",
+  "notes": "- OTA update-check crash fixed (COACH-62)\n- Cross-coach watch visibility + hijack closed (COACH-63)\n- Name your watches (COACH-65)\n- Rename\n- Remove / Unpair\n- Unified Save & Exit\n- Coaches\n- Watches",
+  "size": 2348144,
+  "sig": "MEUCIQCPhpnlIk53pdDuHaZ1UFzuR1R0mopbM5CrEZJgnuV0mAIgWkSYQRBBiazkbJzeBDFCzdER9Jnhk6g8O9I2LrUDIIE="
 }
