@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.17.1-beta",
-  "notes": "- No functional change",
-  "size": 2348128,
-  "sig": "MEUCIQCkhkuz39+cQ/ZK0d+AxshWQiR82WN+bbIWq0RN9J7UuwIgUvNrYyt/5pzrVbQA6oXAn9FeNvq0pxwF2x+8mLHLpyM="
+  "version": "v1.17.2-beta",
+  "notes": "See the release notes.",
+  "size": 2348240,
+  "sig": "MEUCIQCHUafzxMHs4ZB7QX8Fl4l7wwIVo4ZVz1eO3nDtxcp01wIgKqHVrxa1JgpADfoEROCe80Knwx9z4VEZ5Ogx6RJMxCs="
 }
