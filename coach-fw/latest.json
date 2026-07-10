@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.17.0-beta",
-  "notes": "- OTA update-check crash fixed (COACH-62)\n- Cross-coach watch visibility + hijack closed (COACH-63)\n- Name your watches (COACH-65)\n- Rename\n- Remove / Unpair\n- Unified Save & Exit\n- Coaches\n- Watches",
-  "size": 2348144,
-  "sig": "MEUCIQCPhpnlIk53pdDuHaZ1UFzuR1R0mopbM5CrEZJgnuV0mAIgWkSYQRBBiazkbJzeBDFCzdER9Jnhk6g8O9I2LrUDIIE="
+  "version": "v1.17.1-beta",
+  "notes": "- No functional change",
+  "size": 2348128,
+  "sig": "MEUCIQCkhkuz39+cQ/ZK0d+AxshWQiR82WN+bbIWq0RN9J7UuwIgUvNrYyt/5pzrVbQA6oXAn9FeNvq0pxwF2x+8mLHLpyM="
 }
