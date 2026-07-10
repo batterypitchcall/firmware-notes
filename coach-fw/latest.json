@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.17.2-beta",
-  "notes": "See the release notes.",
-  "size": 2348240,
-  "sig": "MEUCIQCHUafzxMHs4ZB7QX8Fl4l7wwIVo4ZVz1eO3nDtxcp01wIgKqHVrxa1JgpADfoEROCe80Knwx9z4VEZ5Ogx6RJMxCs="
+  "version": "v1.17.3-beta",
+  "notes": "- WiFi icon now shows on the menus\n- Update prompt shows real release notes",
+  "size": 2348208,
+  "sig": "MEQCIBjwoS7xg6rABvz8MQhEUBqevk2SF/46qytOItBMgGLmAiAYTvjDRMaSLmzVk+oHPxuutkM34mNMHmFH376UoBr74A=="
 }
