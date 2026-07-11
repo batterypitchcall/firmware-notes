@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.17.4-beta",
-  "notes": "- WiFi icon now confirms a real connection\n- Team name reported to Memfault",
-  "size": 2348576,
-  "sig": "MEUCIAI0xp2j7SWXb8wA5xTgNxxom0DKmJ1FM+PTL0VBU965AiEAxxA5svFQy6eOCCWBSwk+ruQOB2pAyXDFOApZRENrgnY="
+  "version": "v1.18.0-beta",
+  "notes": "- Encrypted key provisioning (LE Secure)\n- Reliable watch assignment\n- Self-cleaning Watches screen",
+  "size": 2360736,
+  "sig": "MEUCIQChF5J+YWnK2YpkTHhimcrNHVAngbV44acBTwYH+JK47AIgLIJUWkH8IM/R99O7+YOAvUFsnt2Mv68lXJvs+Y57i40="
 }
