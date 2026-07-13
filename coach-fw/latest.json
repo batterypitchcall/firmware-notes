@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.22.0-beta",
-  "size": 2373440,
-  "sig": "MEYCIQD1cdNkszUA4+NdsV/BvDdHSebsNKzJFl/JPZnriMOFRAIhAKF7fDCihleuE17YufJBCNVZMukZF4LMmLByH5FpdLyP",
-  "notes": "- The safety net under firmware updates is real now\n- A cleaner screen while you coach\n- Automatic revert of a bad update (the important one)\n- Saving no longer undoes an update\n- WiFi symbol moved"
+  "version": "v1.23.0-beta",
+  "size": 2373552,
+  "sig": "MEYCIQDAur4N7kBnyqZqcIWiTKoIQ83IOm9s1t5WZt6rTu0QlQIhAJOatK6xlBp998NpuNd+jaKmnJs3KWSc1F2+0mdZjmJo",
+  "notes": "See the release notes."
 }
