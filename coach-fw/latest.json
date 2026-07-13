@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.20.0-beta",
-  "size": 2371248,
-  "sig": "MEUCIQDqq9py1s1DtOsilJ6sjP2i+QZv43JBqNR3AVlNwuHm8QIgcTizpK7VqztBrpBb8Cek3cSEzEFsNBTE5/ttmy0KyhI=",
-  "notes": "- Call the game, and the coach keeps it\n- Pick what kind of session you're running\n- Your saved logs are sorted by type\n- Result on every pitch\n- The infield diamond\n- The scoreboard is a button\n- Saved logs by type\n- Export\n- Main-menu clock"
+  "version": "v1.21.0-beta",
+  "size": 2372960,
+  "sig": "MEYCIQDc+3BAvYh3110jywk1ZNdzoEafAXheWkZZefzgjoVTbQIhAJYt3+/HKqENaYsb8T6x21SYTacNGB50qjTHGHRcbDWn",
+  "notes": "- Updating is one step again\n- running"
 }
