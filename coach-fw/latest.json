@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.19.0-beta",
-  "size": 2361392,
-  "sig": "MEUCIQDevc4GHWVgKWiMak9fFUgqiAXU8HJcaXUlRGqnsK5wcgIgBVMYBtT5p5M0aKOFkP2eNtmivgE6q6b9px3BLRKKTJw=",
-  "notes": "- Cleaner pitch-menu top bar\n- Charging indicator\n- Repertoire-aware pitch grid"
+  "version": "v1.20.0-beta",
+  "size": 2371248,
+  "sig": "MEUCIQDqq9py1s1DtOsilJ6sjP2i+QZv43JBqNR3AVlNwuHm8QIgcTizpK7VqztBrpBb8Cek3cSEzEFsNBTE5/ttmy0KyhI=",
+  "notes": "- Call the game, and the coach keeps it\n- Pick what kind of session you're running\n- Your saved logs are sorted by type\n- Result on every pitch\n- The infield diamond\n- The scoreboard is a button\n- Saved logs by type\n- Export\n- Main-menu clock"
 }
