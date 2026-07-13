@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.18.0-beta",
-  "notes": "- Encrypted key provisioning (LE Secure)\n- Reliable watch assignment\n- Self-cleaning Watches screen",
-  "size": 2360736,
-  "sig": "MEUCIQChF5J+YWnK2YpkTHhimcrNHVAngbV44acBTwYH+JK47AIgLIJUWkH8IM/R99O7+YOAvUFsnt2Mv68lXJvs+Y57i40="
+  "version": "v1.19.0-beta",
+  "size": 2361392,
+  "sig": "MEUCIQDevc4GHWVgKWiMak9fFUgqiAXU8HJcaXUlRGqnsK5wcgIgBVMYBtT5p5M0aKOFkP2eNtmivgE6q6b9px3BLRKKTJw=",
+  "notes": "- Cleaner pitch-menu top bar\n- Charging indicator\n- Repertoire-aware pitch grid"
 }
