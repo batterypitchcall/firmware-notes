@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.25.0-beta",
-  "size": 2373568,
-  "sig": "MEYCIQCHzFTRNqFOCEVjgaMGWFYAeeRxt6E2fPETtCUqc0La+wIhAKNfKPDwkHdv0j2T3mBlmu/9lOH0AI7n8Vj5S5oUhMnw",
-  "notes": "See the release notes."
+  "version": "v1.26.0-beta",
+  "size": 2373456,
+  "sig": "MEUCIEClET37bXfkgpgfGoabecrfCUGwBeOp2IqyMmShsGzXAiEA6UuQqQhwr8otJYKFBrdlEyAJGPFN2dE3b4UWRodmYhs=",
+  "notes": "- A bad update now undoes itself - verified on real hardware\n- Supersedes the v1.23/v1.25 test builds\n- Automatic revert of a bad update\n- Version reporting is now patient\n- Saving no longer undoes an update"
 }
