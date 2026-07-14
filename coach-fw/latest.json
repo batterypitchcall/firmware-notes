@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.31.0-beta",
-  "size": 2375840,
-  "sig": "MEQCIDnPT6bHEX9x9gCPs6qBOY29OUdnlaizunzL2EnQ6YrpAiAVUu1m7hyvM7pcE6+/NR4mo4rEsht/51kA3GjYp5JE0g==",
-  "notes": "- Test build - do not install\n- --no-flasher is mandatory\n- Supersede within minutes\n- Fleet must be current first"
+  "version": "v1.32.0-beta",
+  "size": 2375712,
+  "sig": "MEUCIHtZruxlMswjSwvpMFdBCNb83iId8YAHwX4tdepBju8hAiEA5DYN2Meqe8X4y5tV7gkbZ2gvVFB2XTHCxDI31wHzrak=",
+  "notes": "- Supersedes the v1.31.0-beta test build"
 }
