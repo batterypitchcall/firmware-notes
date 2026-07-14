@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.32.0-beta",
-  "size": 2375712,
-  "sig": "MEUCIHtZruxlMswjSwvpMFdBCNb83iId8YAHwX4tdepBju8hAiEA5DYN2Meqe8X4y5tV7gkbZ2gvVFB2XTHCxDI31wHzrak=",
-  "notes": "- Supersedes the v1.31.0-beta test build"
+  "version": "v1.33.0-beta",
+  "size": 2371488,
+  "sig": "MEYCIQD9gLjRWdwqw+smhe04X1sfeRLmAdk4Xme4NptKR2zyIgIhAMvED2pwMSr7TXgHikSfMNsG9nSUITMSme2hxlOAMKJc",
+  "notes": "- Housekeeping release - ships with Receiver Watch 0.8.2\n- in Service Mode\n- Regression fixed on the way in\n- before"
 }
