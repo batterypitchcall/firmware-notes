@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.29.0-beta",
-  "size": 2375616,
-  "sig": "MEUCIQCfgTrK3iIKX13epOVsHLuLPWfRA2Ykl2uIoUVTC79MPAIgIy8LNDH+Xc4rqc2nlD8Lddve1U3+qo57t98WUMHwRNk=",
-  "notes": "- Renaming your team works again, and the watches follow along"
+  "version": "v1.30.0-beta",
+  "size": 2375712,
+  "sig": "MEYCIQDsK6ojj6ldiFepX1ldeLX9U0JkXUjs6VuJB+KbLi+flgIhAPULZE4otp6idXKIdGO2E7TS2gwnxum38FsE+ELgv0D2",
+  "notes": "- You can set a pitch limit below 20 again - and you can turn the limit off entirely\n- Pitch limit 0 = no limit\n- Pitch limit 1-150"
 }
