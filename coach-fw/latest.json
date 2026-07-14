@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.30.0-beta",
-  "size": 2375712,
-  "sig": "MEYCIQDsK6ojj6ldiFepX1ldeLX9U0JkXUjs6VuJB+KbLi+flgIhAPULZE4otp6idXKIdGO2E7TS2gwnxum38FsE+ELgv0D2",
-  "notes": "- You can set a pitch limit below 20 again - and you can turn the limit off entirely\n- Pitch limit 0 = no limit\n- Pitch limit 1-150"
+  "version": "v1.31.0-beta",
+  "size": 2375840,
+  "sig": "MEQCIDnPT6bHEX9x9gCPs6qBOY29OUdnlaizunzL2EnQ6YrpAiAVUu1m7hyvM7pcE6+/NR4mo4rEsht/51kA3GjYp5JE0g==",
+  "notes": "- Test build - do not install\n- --no-flasher is mandatory\n- Supersede within minutes\n- Fleet must be current first"
 }
