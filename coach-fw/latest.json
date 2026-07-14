@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.28.0-beta",
-  "size": 2373632,
-  "sig": "MEUCIQCKEoEnqFFkuH/zwvUUOTqji9w+Z/VsK6kQayFhhYz7cAIgcauqAgoZQtVZd2R0rZX74tul2DNFWqLS1q1ucvmQeEw=",
-  "notes": "- Updating is one dark screen again"
+  "version": "v1.29.0-beta",
+  "size": 2375616,
+  "sig": "MEUCIQCfgTrK3iIKX13epOVsHLuLPWfRA2Ykl2uIoUVTC79MPAIgIy8LNDH+Xc4rqc2nlD8Lddve1U3+qo57t98WUMHwRNk=",
+  "notes": "- Renaming your team works again, and the watches follow along"
 }
