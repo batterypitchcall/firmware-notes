@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.36.0-beta",
-  "size": 2375376,
-  "sig": "MEUCICAbP7wIff/4H13pAnD2kmgcWrQFk35UrZ8qpw73zQJGAiEA1r/wnhc5MN7YQmhHHBZBaXXYHd8DBhsPKxfTdp7JdWs=",
-  "notes": "- Embeds"
+  "version": "v1.37.0-beta",
+  "size": 2375472,
+  "sig": "MEUCIQD0Q5DhMtI9iG6q+tTePKfPVbJJ0qusCcC+7oePtx5e3AIgJJZ3D/O5dgTg/1FkIscmfW7tW2kSbvRFluLF+lDWg7o=",
+  "notes": "- Embeds\n- Settings -> Watches -> UPDATE FW -> 0.9.4\n- Watch 0.9.4\n- Coach confirmation hint"
 }
