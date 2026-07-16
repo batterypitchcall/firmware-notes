@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.34.0-beta",
-  "size": 2371872,
-  "sig": "MEQCICMKHpZ8x+q8EdDZDPojPwFEO/rkMdObK+kvHP8rpF/GAiBGfMdfFHZqlKGesXchByIiHNr/3aewmI9rmn/Iyt1u1g==",
-  "notes": "- Run-scoring outs now count"
+  "version": "v1.35.0-beta",
+  "size": 2375120,
+  "sig": "MEQCIA56IDELCA2Qyyvk5WXH6n5jcUEMenPPXv+hsFgXTgzSAiBuXF1sulFLUjL7UOageekaXhdThAEGS++eOr8QiaNFQQ==",
+  "notes": "- Watches now power themselves\n- First-run setup"
 }
