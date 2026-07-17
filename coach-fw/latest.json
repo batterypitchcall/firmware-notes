@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.38.0-beta",
-  "size": 2376160,
-  "sig": "MEYCIQDt1M2Qvj2G4c0dWa9wq+2s914Vom0DvS/ylyWwa+8KcgIhAM2nArkmaYX8WqKLtHaIgUwMnRdXDbzYL0ClhUYSiCsl",
-  "notes": "- Embeds\n- OTA update window - cancel + time bound (COACH-57)\n- LAN game-export Host guard (COACH-91)\n- Embedded Receiver Watch 0.9.5 (WATCH-29)"
+  "version": "v1.39.0-beta",
+  "size": 2470896,
+  "sig": "MEUCICVEZw8rUWVQwz21Xz7drsiqLoE6Iif3c5ngGBubwYtNAiEAy2z4XHM2UnEJufnJ7WiRMcxbBF8+DoGiMTWwaBeubDU=",
+  "notes": "- Embeds\n- Main-screen layout redesign\n- Auto-fit text (uifitfont)\n- Scored-game: runner-out no longer scores a run (COACH-92)\n- Scored-game: box score stays correct in long games (COACH-93)\n- Diamond select-and-move"
 }
