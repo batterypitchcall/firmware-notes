@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.40.0-beta",
-  "size": 2476192,
-  "sig": "MEUCIQCfd9WC8aWoakYq2Db+fI6cNC7WaE1FVubJrdR/m/Lu7wIgIQvjDPo7U9ly6sXl8L1I9uE2/0qA+OL7IMCux6c/Fck=",
-  "notes": "- Embeds\n- walk-off\n- Half-inning engine\n- Regulation length + FINAL / walk-off\n- New Game Setup screen\n- Main-screen redesign\n- Confirm + location + diamond + game panel\n- Daylight mode toggle"
+  "version": "v1.40.1-beta",
+  "size": 2476448,
+  "sig": "MEQCIHlLlkOviT31IQWWWPudnWWG2P1EVM8vYSzK/42q1nO5AiBctfzl59ArN1OLhk9IiKRJzCLhadp0zk0CQnkvTm2lSw==",
+  "notes": "- Embeds"
 }
