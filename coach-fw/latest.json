@@ -2,6 +2,6 @@
   "software_type": "coach-fw",
   "version": "v1.40.1-beta",
   "size": 2476448,
-  "sig": "MEQCIHlLlkOviT31IQWWWPudnWWG2P1EVM8vYSzK/42q1nO5AiBctfzl59ArN1OLhk9IiKRJzCLhadp0zk0CQnkvTm2lSw==",
-  "notes": "- Embeds"
+  "sig": "MEYCIQDxds4wY/3hdzwZWylTaLDqdHggd1eh2R7POmwC+62bBQIhALxMpvWR+iXx9798XTTE8sZ1q8ycNlf3TBOxydQwQ1VN",
+  "notes": "- Back steps one screen at a time\n- No double-logged pitches"
 }
