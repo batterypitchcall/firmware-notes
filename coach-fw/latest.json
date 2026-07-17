@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.39.0-beta",
-  "size": 2470896,
-  "sig": "MEUCICVEZw8rUWVQwz21Xz7drsiqLoE6Iif3c5ngGBubwYtNAiEAy2z4XHM2UnEJufnJ7WiRMcxbBF8+DoGiMTWwaBeubDU=",
-  "notes": "- Embeds\n- Main-screen layout redesign\n- Auto-fit text (uifitfont)\n- Scored-game: runner-out no longer scores a run (COACH-92)\n- Scored-game: box score stays correct in long games (COACH-93)\n- Diamond select-and-move"
+  "version": "v1.40.0-beta",
+  "size": 2476192,
+  "sig": "MEUCIQCfd9WC8aWoakYq2Db+fI6cNC7WaE1FVubJrdR/m/Lu7wIgIQvjDPo7U9ly6sXl8L1I9uE2/0qA+OL7IMCux6c/Fck=",
+  "notes": "- Embeds\n- walk-off\n- Half-inning engine\n- Regulation length + FINAL / walk-off\n- New Game Setup screen\n- Main-screen redesign\n- Confirm + location + diamond + game panel\n- Daylight mode toggle"
 }
