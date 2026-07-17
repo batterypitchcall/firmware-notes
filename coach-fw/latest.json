@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.37.0-beta",
-  "size": 2375472,
-  "sig": "MEUCIQD0Q5DhMtI9iG6q+tTePKfPVbJJ0qusCcC+7oePtx5e3AIgJJZ3D/O5dgTg/1FkIscmfW7tW2kSbvRFluLF+lDWg7o=",
-  "notes": "- Embeds\n- Settings -> Watches -> UPDATE FW -> 0.9.4\n- Watch 0.9.4\n- Coach confirmation hint"
+  "version": "v1.38.0-beta",
+  "size": 2376160,
+  "sig": "MEYCIQDt1M2Qvj2G4c0dWa9wq+2s914Vom0DvS/ylyWwa+8KcgIhAM2nArkmaYX8WqKLtHaIgUwMnRdXDbzYL0ClhUYSiCsl",
+  "notes": "- Embeds\n- OTA update window - cancel + time bound (COACH-57)\n- LAN game-export Host guard (COACH-91)\n- Embedded Receiver Watch 0.9.5 (WATCH-29)"
 }
