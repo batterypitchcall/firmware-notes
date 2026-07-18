@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.40.1-beta",
+  "version": "v1.41.0-beta",
   "size": 2476448,
-  "sig": "MEYCIQDxds4wY/3hdzwZWylTaLDqdHggd1eh2R7POmwC+62bBQIhALxMpvWR+iXx9798XTTE8sZ1q8ycNlf3TBOxydQwQ1VN",
-  "notes": "- Back steps one screen at a time\n- No double-logged pitches"
+  "sig": "MEQCIDSEQgHjjaT6tZGt7SfZwCz0LNQnI85ytGrL5w0MydavAiBtcp0FyF2DRWNMErPULeecoE4gW7KucLEETR38RG/nNw==",
+  "notes": "- Watch battery reads 100% when full\n- No screen glitch during a watch firmware update"
 }
