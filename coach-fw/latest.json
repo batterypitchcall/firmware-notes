@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.41.1-beta",
-  "size": 2476720,
-  "sig": "MEYCIQCRyUqqFqynMX7NthiojVMYM/v2CtCCYd445ldZpQczZAIhAL4aweyfrJ0bdz21vBHxzfrNBRciPSIq17ZuTEE09iz3",
-  "notes": "- Farther pitch range\n- +9 dBm"
+  "version": "v1.41.2-beta",
+  "size": 2476928,
+  "sig": "MEYCIQCscAL10a97h+R7YOwG8T2Mr9r48GOR1cbi6E8XRN4l+wIhAJcmzYrwgr70qETJeBK76sFKANK+j974UWuLMmRDFrxp",
+  "notes": "- transmits pitch calls at higher power again\n- Longer range (higher TX power)"
 }
