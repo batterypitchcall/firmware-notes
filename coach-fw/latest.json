@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.41.0-beta",
-  "size": 2476448,
-  "sig": "MEQCIDSEQgHjjaT6tZGt7SfZwCz0LNQnI85ytGrL5w0MydavAiBtcp0FyF2DRWNMErPULeecoE4gW7KucLEETR38RG/nNw==",
-  "notes": "- Watch battery reads 100% when full\n- No screen glitch during a watch firmware update"
+  "version": "v1.41.1-beta",
+  "size": 2476720,
+  "sig": "MEYCIQCRyUqqFqynMX7NthiojVMYM/v2CtCCYd445ldZpQczZAIhAL4aweyfrJ0bdz21vBHxzfrNBRciPSIq17ZuTEE09iz3",
+  "notes": "- Farther pitch range\n- +9 dBm"
 }
