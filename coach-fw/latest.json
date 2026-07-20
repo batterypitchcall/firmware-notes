@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.41.4-beta",
-  "size": 2477088,
-  "sig": "MEQCIFaV77GBE1kGEIqAFyQM4pMsvwBMymaybNeEMsrOPKelAiBCrufsfVK99a08GAsr/yFWgWpV2aPT6SUkBJHl52tBRQ==",
-  "notes": "- Better crash diagnostics"
+  "version": "v1.42.0-beta",
+  "size": 2483536,
+  "sig": "MEUCIHRSqQov9YvjSgBHH5g4wF8H5wy9C2m7c0kKUKMMYmNLAiEA5NgptXo6EmV+esa2WGnGpUJv2dGi8QKfSUpGGiNun8g=",
+  "notes": "- Call plays, not just pitches\n- Build and sync your play list"
 }
