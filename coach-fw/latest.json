@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.41.3-beta",
+  "version": "v1.41.4-beta",
   "size": 2477088,
-  "sig": "MEUCIBrsqP4Vo6LDfQBSEQYHljdE7UsK6ts4b37CRqz0cD7PAiEAvnxhgzF15EoAHoB9k7rWwqVMNyFlSJb8relIObStfIM=",
-  "notes": "- Real +18 dBm transmit power (~300 ft range)"
+  "sig": "MEQCIFaV77GBE1kGEIqAFyQM4pMsvwBMymaybNeEMsrOPKelAiBCrufsfVK99a08GAsr/yFWgWpV2aPT6SUkBJHl52tBRQ==",
+  "notes": "- Better crash diagnostics"
 }
