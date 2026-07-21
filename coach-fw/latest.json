@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.42.0-beta",
-  "size": 2483536,
-  "sig": "MEUCIHRSqQov9YvjSgBHH5g4wF8H5wy9C2m7c0kKUKMMYmNLAiEA5NgptXo6EmV+esa2WGnGpUJv2dGi8QKfSUpGGiNun8g=",
-  "notes": "- Call plays, not just pitches\n- Build and sync your play list"
+  "version": "v1.42.1-beta",
+  "size": 2488144,
+  "sig": "MEYCIQDIejJNSNNobnMTDFC3Sg9FURi+cqlYx8LUPd7r/g598QIhAN7Sr0usJ43JlGvufhdlTgxkFrJfK2CA+h2uljdUOHg1",
+  "notes": "- One place to update everything\n- Clearer firmware updates\n- Harder to lose data by accident\n- Back always goes back\n- Cleaner pitch & play editing\n- Honest \"sent\" feedback"
 }
