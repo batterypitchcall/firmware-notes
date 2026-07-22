@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.42.2-beta",
-  "size": 2488144,
-  "sig": "MEUCIQDP82xze5WaG3ktMSnBGuSA6f1R4xv1k8guFXB7nGp1eQIgbvN78uvmg9j9xAqzr26m86o5/+H9YrEChhHjo8YssHA=",
-  "notes": "- Better crash reports"
+  "version": "v1.43.0-beta",
+  "size": 2490368,
+  "sig": "MEUCIQDROnm7I+a8ts3iv4kA3CC3qfuqlGeBoe93cpLV27s5gwIgI/wshx8CD5yn6oxuhcTyea2QR3uAQNjO7q7sDeRvnB0=",
+  "notes": "- A game in progress now survives a restart\n- The watch update screen is readable again"
 }
