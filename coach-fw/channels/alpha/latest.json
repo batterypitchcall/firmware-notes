@@ -1,0 +1,7 @@
+{
+  "software_type": "coach-fw",
+  "version": "v1.44.1-beta",
+  "size": 2494512,
+  "sig": "MEUCIG6JiMD9aV7HNnUQLugha4zf5s+VVcAQ9fNSuCWmLCbcAiEAhQsqgT4laZ/CpUIJHDGXLan1hIyFuBkMU291mv/Pmqc=",
+  "notes": "- Channel\n- Clearer update channels\n- Alpha units\n- Beta/production units"
+}
