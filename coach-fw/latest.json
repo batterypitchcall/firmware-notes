@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.43.1-beta",
-  "size": 2493040,
-  "sig": "MEUCIGYy63A1yvjIeuFFjj1rU3AqNvqLS37LHXSUwiBHrzn0AiEA9wOQqqs7X40rwiMPboENyxNGVZA7R1HORBq7ajC82f0=",
-  "notes": "- The coach now reports its own health\n- Reset census\n- Worst task stack, by name\n- PSRAM headroom\n- diag serial command"
+  "version": "v1.43.2-beta",
+  "size": 2493264,
+  "sig": "MEUCIQDEkj4XY38rXT/AztUEQYIvYv7kQ/QCMZJZLvpzANMeYAIgc7oAc8jB4Uz8EFSRY8Ic7ku8mzWb2O7NgvIJ53Zznmc=",
+  "notes": "- A likely fix for the screen glitching/lines on battery\n- During a game\n- Idle (no game)"
 }
