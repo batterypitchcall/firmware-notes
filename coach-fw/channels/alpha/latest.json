@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.44.2-beta",
-  "size": 2493808,
-  "sig": "MEUCIQC1Rn5QyOWpDg3VknsFkPM5LPzlcQVfOcqwrZFSiRCt0AIga5TX+s/py83d6STTAiU57ZWzgfF1ybuFIIERvE9QE7Y=",
-  "notes": "- Channel\n- Polish only\n- 5-second hold"
+  "version": "v1.45.0-beta",
+  "size": 2492704,
+  "sig": "MEUCIHH92hjFxEW9NL8vgmN3YnCwCW/TgVPsYRQ6qu7Q0tv6AiEAoq2lhI6e/mv5u84s2NJQgZGQ+/vE2HW+IfNz1EusiqQ=",
+  "notes": "- Channel\n- Two things moved\n- Pitch & Play Library\n- You can see what a watch is doing\n- Buttons that can't work now look like it\n- Every Settings screen is laid out the same way\n- Reusable settings-page pattern\n- Paired Watches\n- Update & Sync -> Update Coach\n- Library owns sync\n- Settings hub\n- Known gaps"
 }
