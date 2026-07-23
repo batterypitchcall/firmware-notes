@@ -3,5 +3,5 @@
   "version": "v1.43.2-beta",
   "size": 2493264,
   "sig": "MEUCIQDEkj4XY38rXT/AztUEQYIvYv7kQ/QCMZJZLvpzANMeYAIgc7oAc8jB4Uz8EFSRY8Ic7ku8mzWb2O7NgvIJ53Zznmc=",
-  "notes": "- A likely fix for the screen glitching/lines on battery\n- During a game\n- Idle (no game)"
+  "notes": "- A likely fix for the screen glitching/lines on battery\n- Please confirm pitch calls still reach across the field before you use it in a game"
 }
