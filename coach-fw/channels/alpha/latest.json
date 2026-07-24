@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.45.0-beta",
-  "size": 2492704,
-  "sig": "MEUCIHH92hjFxEW9NL8vgmN3YnCwCW/TgVPsYRQ6qu7Q0tv6AiEAoq2lhI6e/mv5u84s2NJQgZGQ+/vE2HW+IfNz1EusiqQ=",
-  "notes": "- Channel\n- Two things moved\n- Pitch & Play Library\n- You can see what a watch is doing\n- Buttons that can't work now look like it\n- Every Settings screen is laid out the same way\n- Reusable settings-page pattern\n- Paired Watches\n- Update & Sync -> Update Coach\n- Library owns sync\n- Settings hub\n- Known gaps"
+  "version": "v1.46.0-beta",
+  "size": 2492960,
+  "sig": "MEUCIQD3fNsUSIlJhO0lkcw41XB7ltTWcsl7xxO0oy/umx50swIgNuiPuATq7EZgz/iJFSQwRytXNgubHbq58CGa9ZyIdUA=",
+  "notes": "- Channel\n- The screen now turns itself off when you're not using it, and one tap wakes it\n- This also charges the coach roughly three times faster\n- Fixes the faint lines that could appear on the screen"
 }
