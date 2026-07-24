@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.46.0-beta",
-  "size": 2492960,
-  "sig": "MEUCIQD3fNsUSIlJhO0lkcw41XB7ltTWcsl7xxO0oy/umx50swIgNuiPuATq7EZgz/iJFSQwRytXNgubHbq58CGa9ZyIdUA=",
-  "notes": "- The screen now turns itself off when you're not using it, and one tap wakes it\n- This also charges the coach roughly three times faster\n- Fixes the faint lines that could appear on the screen"
+  "version": "v1.47.0-beta",
+  "size": 2493376,
+  "sig": "MEUCIQDZUXzWgp1dthLxmPUp1izdnQohNzMDmOCjveuZ0xqkSwIgR+ej1K2TX7902opZkbqbydModwgIzQXp7uvmBVAdSmQ=",
+  "notes": "- Menus scroll more smoothly"
 }
