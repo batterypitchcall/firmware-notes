@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.47.0-beta",
-  "size": 2493376,
-  "sig": "MEUCIQDZUXzWgp1dthLxmPUp1izdnQohNzMDmOCjveuZ0xqkSwIgR+ej1K2TX7902opZkbqbydModwgIzQXp7uvmBVAdSmQ=",
-  "notes": "- Menus scroll more smoothly"
+  "version": "v1.48.0-beta",
+  "size": 2493424,
+  "sig": "MEUCID6JA6G3x3ZC1XHM0pHKu0hoMDnfwhdm0qP/BcZCpw3QAiEAqb2Bf8W6swWj6rOkQG8tykRoXGlwZFiJlXhNyCCuhuU=",
+  "notes": "- Fixes the faint lines that came back on the coach screen"
 }
