@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.48.0-beta",
-  "size": 2493424,
-  "sig": "MEUCID6JA6G3x3ZC1XHM0pHKu0hoMDnfwhdm0qP/BcZCpw3QAiEAqb2Bf8W6swWj6rOkQG8tykRoXGlwZFiJlXhNyCCuhuU=",
-  "notes": "- Fixes the faint lines that came back on the coach screen"
+  "version": "v1.49.0-beta",
+  "size": 2493712,
+  "sig": "MEQCIDugMnIC+i4aaBOJoEW4w9hJSkJ9BLb10MGb+oAJOTUhAiA6n4xsP0esnhsEAJQQeRR+z7yZx+m7whdfRm4UMwY2jA==",
+  "notes": "- Fixes the settings button bouncing you straight back to the pitch screen"
 }
