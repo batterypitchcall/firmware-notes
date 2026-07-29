@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.49.0-beta",
-  "size": 2493712,
-  "sig": "MEQCIDugMnIC+i4aaBOJoEW4w9hJSkJ9BLb10MGb+oAJOTUhAiA6n4xsP0esnhsEAJQQeRR+z7yZx+m7whdfRm4UMwY2jA==",
-  "notes": "- Fixes the settings button bouncing you straight back to the pitch screen"
+  "version": "v1.51.0-beta",
+  "size": 2498048,
+  "sig": "MEYCIQC/lB9mqbUBm8ELy+2XR358MQZ3Aac2Lw672QwPFT4h1QIhAM5n1TWqqcDITAzYYChdKNgmdfkxV6qah/lL+iaD/aIo",
+  "notes": "- Fixes a crash that could restart the coach on its own\n- Menus and lists scroll noticeably better"
 }
