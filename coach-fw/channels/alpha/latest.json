@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.51.0-beta",
-  "size": 2498048,
-  "sig": "MEYCIQC/lB9mqbUBm8ELy+2XR358MQZ3Aac2Lw672QwPFT4h1QIhAM5n1TWqqcDITAzYYChdKNgmdfkxV6qah/lL+iaD/aIo",
-  "notes": "- Fixes a crash that could restart the coach on its own\n- Menus and lists scroll noticeably better"
+  "version": "v1.51.1-beta",
+  "size": 2497664,
+  "sig": "MEYCIQDXuyvH85TaAOeco77+dzfiR0vGNZQJ1As8G4NthRQUfgIhAJa08fUpNmdETnbnbzZp4JZZBCBGRdP7/74NLNo6oy1r",
+  "notes": "- Fixes v1.51.0-beta starting up to a lit but blank screen\n- An unbounded wait in setup() has no failure mode except a dead unit\n- Ordering made it maximally damaging"
 }
