@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.44.2-beta",
-  "size": 2493808,
-  "sig": "MEUCIQC1Rn5QyOWpDg3VknsFkPM5LPzlcQVfOcqwrZFSiRCt0AIga5TX+s/py83d6STTAiU57ZWzgfF1ybuFIIERvE9QE7Y=",
-  "notes": "- Channel\n- Polish only\n- 5-second hold"
+  "version": "v1.51.1-beta",
+  "size": 2497664,
+  "sig": "MEYCIQDXuyvH85TaAOeco77+dzfiR0vGNZQJ1As8G4NthRQUfgIhAJa08fUpNmdETnbnbzZp4JZZBCBGRdP7/74NLNo6oy1r",
+  "notes": "- Fixes v1.51.0-beta starting up to a lit but blank screen\n- An unbounded wait in setup() has no failure mode except a dead unit\n- Ordering made it maximally damaging"
 }
