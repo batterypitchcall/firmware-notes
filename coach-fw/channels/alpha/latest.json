@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.51.1-beta",
-  "size": 2497664,
-  "sig": "MEYCIQDXuyvH85TaAOeco77+dzfiR0vGNZQJ1As8G4NthRQUfgIhAJa08fUpNmdETnbnbzZp4JZZBCBGRdP7/74NLNo6oy1r",
-  "notes": "- Fixes v1.51.0-beta starting up to a lit but blank screen\n- An unbounded wait in setup() has no failure mode except a dead unit\n- Ordering made it maximally damaging"
+  "version": "v1.51.2-beta",
+  "size": 2497760,
+  "sig": "MEUCIQDhZ1UKWhlLjiy1e+PhrF2/ERExAW0Y4+8CXiQw9flruwIgTFM6V5G0p9QYsD6RKHLHeyIRb99W7M0GSXBAaAhzsRE=",
+  "notes": "- Holding your finger on a button now does what you'd expect\n- Waking the coach works first time\n- A new coach that you switch off during setup comes back to setup\n- gear/BACK alternating\n- The hidden 5 s alpha-channel hold could never complete\n- The standby wake-hold needed several tries"
 }
