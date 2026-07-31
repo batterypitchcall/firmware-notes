@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.51.2-beta",
-  "size": 2497760,
-  "sig": "MEUCIQDhZ1UKWhlLjiy1e+PhrF2/ERExAW0Y4+8CXiQw9flruwIgTFM6V5G0p9QYsD6RKHLHeyIRb99W7M0GSXBAaAhzsRE=",
-  "notes": "- Holding your finger on a button now does what you'd expect\n- Waking the coach works first time\n- A new coach that you switch off during setup comes back to setup\n- gear/BACK alternating\n- The hidden 5 s alpha-channel hold could never complete\n- The standby wake-hold needed several tries"
+  "version": "v1.52.0-beta",
+  "size": 2498912,
+  "sig": "MEUCIBs8BMIx7ZABXhE88YlqO2ZhyfkRDBCQgsLEzb1p4OBMAiEAlXytdK2BckdaWr1NYpM3P/pz4TG2qvQFgGOXIbmzX1I=",
+  "notes": "- withdrawn\n- 1. Crash reports were being killed before they were written\n- 2. Writing settings to storage while the screen is running is fatal\n- blocks\n- Slow interrupt handling starving the system clock\n- Storage writes stalling a processor core\n- Anything in the coach's own code blocking too long\n- A display repaint clearing the lines\n- Destructive bench-only diagnostics are compiled out\n- Still to bring forward before any unit can ship to a customer"
 }
