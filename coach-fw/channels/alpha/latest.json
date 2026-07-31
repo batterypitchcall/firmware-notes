@@ -3,5 +3,5 @@
   "version": "v1.52.0-beta",
   "size": 2498912,
   "sig": "MEUCIBs8BMIx7ZABXhE88YlqO2ZhyfkRDBCQgsLEzb1p4OBMAiEAlXytdK2BckdaWr1NYpM3P/pz4TG2qvQFgGOXIbmzX1I=",
-  "notes": "- withdrawn\n- 1. Crash reports were being killed before they were written\n- 2. Writing settings to storage while the screen is running is fatal\n- blocks\n- Slow interrupt handling starving the system clock\n- Storage writes stalling a processor core\n- Anything in the coach's own code blocking too long\n- A display repaint clearing the lines\n- Destructive bench-only diagnostics are compiled out\n- Still to bring forward before any unit can ship to a customer"
+  "notes": "- The coach no longer restarts by itself during use\n- Faint lines no longer appear on the screen over time\n- Scrolling and button presses stay quick\n- If the coach ever does restart, it now reports why, so problems can be fixed properly"
 }
