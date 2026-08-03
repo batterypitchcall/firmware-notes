@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.51.1-beta",
-  "size": 2497664,
-  "sig": "MEYCIQDXuyvH85TaAOeco77+dzfiR0vGNZQJ1As8G4NthRQUfgIhAJa08fUpNmdETnbnbzZp4JZZBCBGRdP7/74NLNo6oy1r",
-  "notes": "- Fixes v1.51.0-beta starting up to a lit but blank screen\n- An unbounded wait in setup() has no failure mode except a dead unit\n- Ordering made it maximally damaging"
+  "version": "v1.53.0-beta",
+  "size": 2503968,
+  "sig": "MEQCIFSuZ6CO6r0oTIZJwGWhUh+GR54rJDQpZH9/EymOfPmXAiAjTYQWHasAJmf3JX0DeS65Hq09pgeWqqSAbqprkCUfeQ==",
+  "notes": "- The faint lines that could appear on the screen are gone\n- A new coach now arrives unnamed, so you set your own team up on first use\n- You can switch a brand-new coach off before you've finished setting it up\n- The coach tells you if its battery meter isn't working, instead of just showing nothing\n- Updates your watch to the latest receiver firmware"
 }
