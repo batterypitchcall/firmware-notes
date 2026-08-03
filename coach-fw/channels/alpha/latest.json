@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.52.0-beta",
-  "size": 2498912,
-  "sig": "MEUCIBs8BMIx7ZABXhE88YlqO2ZhyfkRDBCQgsLEzb1p4OBMAiEAlXytdK2BckdaWr1NYpM3P/pz4TG2qvQFgGOXIbmzX1I=",
-  "notes": "- The coach no longer restarts by itself during use\n- Faint lines no longer appear on the screen over time\n- Scrolling and button presses stay quick\n- If the coach ever does restart, it now reports why, so problems can be fixed properly"
+  "version": "v1.53.0-beta",
+  "size": 2503968,
+  "sig": "MEQCIFSuZ6CO6r0oTIZJwGWhUh+GR54rJDQpZH9/EymOfPmXAiAjTYQWHasAJmf3JX0DeS65Hq09pgeWqqSAbqprkCUfeQ==",
+  "notes": "- The faint lines that could appear on the screen are gone\n- A new coach now arrives unnamed, so you set your own team up on first use\n- You can switch a brand-new coach off before you've finished setting it up\n- The coach tells you if its battery meter isn't working, instead of just showing nothing\n- Updates your watch to the latest receiver firmware"
 }
