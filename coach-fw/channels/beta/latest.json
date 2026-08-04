@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.53.0-beta",
-  "size": 2503968,
-  "sig": "MEQCIFSuZ6CO6r0oTIZJwGWhUh+GR54rJDQpZH9/EymOfPmXAiAjTYQWHasAJmf3JX0DeS65Hq09pgeWqqSAbqprkCUfeQ==",
-  "notes": "- The faint lines that could appear on the screen are gone\n- A new coach now arrives unnamed, so you set your own team up on first use\n- You can switch a brand-new coach off before you've finished setting it up\n- The coach tells you if its battery meter isn't working, instead of just showing nothing\n- Updates your watch to the latest receiver firmware"
+  "version": "v1.53.1-beta",
+  "size": 2503136,
+  "sig": "MEYCIQDur8SLaXbBWA24qsEI+W8xPPH/+7rSh2JBJhDEJ08QXwIhAOMtCF7Lz5XYsuV90cWl22VyM/vyZGIE9DEBap19mEHm",
+  "notes": "- A watch in Service mode now stays in the Paired Watches list instead of vanishing after a second\n- The screen runs at full speed on battery again"
 }
