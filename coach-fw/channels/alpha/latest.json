@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.53.2-beta",
-  "size": 2503568,
-  "sig": "MEQCIGXOHbD6QXKwpB9mx8KhDj8UjkKXtVfy0uk2amsheJsOAiBH93YGviMcIgLc7Nd4X8RHdv6uDNFPbCTRkLHVtFEVVA==",
-  "notes": "- A long game's saved log now tells you when it has more detail than it could store\n- Clearer message when an update downloads but doesn't finish"
+  "version": "v1.53.3-beta",
+  "size": 2504208,
+  "sig": "MEQCICW7hZcbuZ7pyqm/sQEaifZVZbRJThvs4xgAgGBshmb4AiAA0n6pb3kRcBG7xRhTmir+BGrPfgWviw6nN8bac2cHEQ==",
+  "notes": "- Powering off during first-time setup now brings you back to setup, not the pitch menu\n- Crash reports can now record what actually went wrong, instead of coming back blank\n- One display change is being trialled - see the note below before reading anything into it"
 }
