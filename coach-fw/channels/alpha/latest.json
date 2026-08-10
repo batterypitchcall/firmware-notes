@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.53.4-beta",
-  "size": 2505152,
-  "sig": "MEUCIQC1ho4wUP16vPHTsOSE9QrTKEyCV00mc9E8ASRWt0TD2wIgO8mNZabZJkTXqcMJKqRl3uhVs/S+kQsFwHFHGhjjSeY=",
-  "notes": "- Nothing changes in how the coach works - this update is entirely about what happens if one ever crashes\n- If a coach does crash, the report it sends back now describes that crash accurately, instead of a scrambled or leftover one\n- Please keep reporting anything odd as usual; this makes those reports far more useful to us"
+  "version": "v1.53.5-beta",
+  "size": 2507168,
+  "sig": "MEQCIE3bDOmyiNIcSXcK4/yjowWSg9rr03WOMiGaBkPVknMcAiBFY93nH+Rcww5jN2OUtYzww1C8ARzn/57CisHgkeajhw==",
+  "notes": "- Privacy fix\n- Factory reset now really does erase everything\n- Typing fixed\n- Pitch calls reach the watches slightly faster, and a handful of internal safety checks were tightened\n- Nothing changes in how you use the coach day to day"
 }
