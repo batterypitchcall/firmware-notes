@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.53.5-beta",
-  "size": 2507168,
-  "sig": "MEQCIE3bDOmyiNIcSXcK4/yjowWSg9rr03WOMiGaBkPVknMcAiBFY93nH+Rcww5jN2OUtYzww1C8ARzn/57CisHgkeajhw==",
-  "notes": "- Privacy fix\n- Factory reset now really does erase everything\n- Typing fixed\n- Pitch calls reach the watches slightly faster, and a handful of internal safety checks were tightened\n- Nothing changes in how you use the coach day to day"
+  "version": "v1.54.0-beta",
+  "size": 2510768,
+  "sig": "MEUCIQCJ56T8Y4vk+QW5SW5ZJulY8yZ0Y4EaczRAr4jNopJONQIgeNCZZOm1VA+3AdGU3SM15Ne58nd/aTQsBS4I7ovUUfA=",
+  "notes": "- A coach that runs completely flat can now recover on its own\n- The charging light tells the truth\n- Your coach warns you before it runs itself flat\n- Watches can now show that they are charging\n- Nothing changes in how you use the coach day to day"
 }
