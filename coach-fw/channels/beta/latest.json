@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.53.1-beta",
-  "size": 2503136,
-  "sig": "MEYCIQDur8SLaXbBWA24qsEI+W8xPPH/+7rSh2JBJhDEJ08QXwIhAOMtCF7Lz5XYsuV90cWl22VyM/vyZGIE9DEBap19mEHm",
-  "notes": "- A watch in Service mode now stays in the Paired Watches list instead of vanishing after a second\n- The screen runs at full speed on battery again"
+  "version": "v1.53.5-beta",
+  "size": 2507168,
+  "sig": "MEQCIE3bDOmyiNIcSXcK4/yjowWSg9rr03WOMiGaBkPVknMcAiBFY93nH+Rcww5jN2OUtYzww1C8ARzn/57CisHgkeajhw==",
+  "notes": "- Privacy fix\n- Factory reset now really does erase everything\n- Typing fixed\n- Pitch calls reach the watches slightly faster, and a handful of internal safety checks were tightened\n- Nothing changes in how you use the coach day to day"
 }
