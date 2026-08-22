@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.54.1-beta",
-  "size": 2511584,
-  "sig": "MEQCIBWX5KHyk+fEw+ngPMLW1FceXSvu0hUbvd3vYwLGGruWAiBT8zIJoxLzyRX2Am/OOWRZJeNDbDGK1vT86dTAwujjHA==",
-  "notes": "- The on-screen keyboard is responsive again\n- The rest of the interface feels quicker too\n- Watches you update from this coach now get the corrected battery meter\n- Nothing changes in how you use the coach day to day, and nothing changes about how it talks to your watches"
+  "version": "v1.54.2-beta",
+  "size": 2511264,
+  "sig": "MEUCIQDViquRMecgnHY7arxJzXJ17pQ1zojbVSJPMfzn+lnkKAIgaEN/GRLhppu+KKcBx/FaOmZwWy6ln37Ty+6UFhYMPGE=",
+  "notes": "- Watches you update from this coach go back to firmware 0.10.1\n- The watch battery percentage will bounce around again\n- Nothing about the coach itself changes\n- If you have a watch that has already stopped responding, this release does not recover it. Contact us"
 }
