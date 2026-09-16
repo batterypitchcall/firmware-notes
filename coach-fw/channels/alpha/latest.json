@@ -1,7 +1,7 @@
 {
   "software_type": "coach-fw",
-  "version": "v1.54.3-beta",
-  "size": 2511600,
-  "sig": "MEUCIQCrtYKtqhAQOXKKvnGf9La9DNn6QZc1Ov9cLAeBraP31wIgLhY4sLJaVql5qXD80ouZ0NXVBmUS21nuV6rdCKxF9Lo=",
-  "notes": "- Pitch calls now stay on screen for 8 seconds\n- Watches you update from this coach now get firmware 0.10.4\n- 0.10.4 does not bring back the problem 0.10.2 had\n- Your Saved Games list can no longer disappear\n- Paired Watches is more reliable\n- The watch battery percentage still jumps around"
+  "version": "v1.54.4-beta",
+  "size": 2511552,
+  "sig": "MEUCIQDefSMyc2/auY0memca/h4pd35BVJlPDxt0gMLnHcupDgIgVbt6a+4xdAD7RETgV+P/tDBsVcn30oFHiZFlOF2IFQs=",
+  "notes": "- Updating your coach should no longer crash it\n- Nothing else changed\n- The 8-second pitch call, the saved-games fix and the Paired Watches fix from v1.54.3-beta are all still here"
 }
